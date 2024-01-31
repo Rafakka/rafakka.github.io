@@ -2,6 +2,6 @@
 
 # Bem vindos!
 
-### Este repositorio é apenas uma copia de meu curriculo atual, sintam se a vontade para clonar o 'md' do curriculo caso gostarem da formatação do mesmo.
+### Este repositório é apenas uma cópia de meu currículo atual, sintam se a vontade para clonar o 'MD' do currículo caso gostarem da formatação do mesmo.
 
 Obs: Na pasta livros sempre deixo algum pdf que estou estudando.
