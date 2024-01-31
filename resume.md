@@ -1,6 +1,6 @@
 # Rafael Kaher dos Santos
 
-## Informações de contato
+### Informações de contato
 
 <p align="left">
   <a href="#" title="Gmail">
@@ -15,20 +15,20 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-## Sobre mim:
+### Sobre mim:
 A brief summary highlighting your skills and career objectives.
 
-## Formação
+### Formação
 - **Degree:** Bachelor of Science in Computer Science
 - **University:** XYZ University
 - **Year:** 20XX - 20XX
 
-## Habilidades
+### Habilidades
 - Programming Languages: Python, Java, C++
 - Web Technologies: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VSCode
 
-## Projetos
+### Projetos
 1. **Project Name 1**
    - Description: Brief description of the project.
    - GitHub Link: [Project Repository](https://github.com/yourprofile/project1)
@@ -37,17 +37,17 @@ A brief summary highlighting your skills and career objectives.
    - Description: Another project description.
    - GitHub Link: [Project Repository](https://github.com/yourprofile/project2)
 
-## Experiência
+### Experiência
 - **Job Title:** Software Developer
 - **Company:** ABC Tech
 - **Duration:** Month Year - Month Year
 - **Responsibilities:** List your responsibilities and achievements.
 
-## Cursos
+### Cursos
 - **Certification Name**
   - Issued by: Certification Body
   - Year: 20XX
 
-## Línguas
+### Línguas
 - **Inglês:** Avançado 
 
