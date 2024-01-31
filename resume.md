@@ -16,17 +16,17 @@
 </p>
 
 ### Sobre mim:
-A brief summary highlighting your skills and career objectives.
+Sou determinado e estou sempre interessado em aprender algo novo, tenho muito interesse na area de desenvolvimento e teste de software.
 
 ### Formação
-- **Degree:** Bachelor of Science in Computer Science
-- **University:** XYZ University
-- **Year:** 20XX - 20XX
+- **Graduação:** Analise e desenvolvimento de sistemas
+- **Universidade:** UNIBTA  
+- **Ano:** 2022 - 2025
 
 ### Habilidades
-- Programming Languages: Python, Java, C++
-- Web Technologies: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VSCode
+- Linguagens de Programação: Java, Python, C e Ruby. 
+- Web: HTML5, CSS, JavaScript.
+- Ferramentas: Git, GitHub, VSCode , Eclipse.
 
 ### Projetos
 1. **Project Name 1**
@@ -37,16 +37,16 @@ A brief summary highlighting your skills and career objectives.
    - Description: Another project description.
    - GitHub Link: [Project Repository](https://github.com/yourprofile/project2)
 
-### Experiência
-- **Job Title:** Software Developer
-- **Company:** ABC Tech
-- **Duration:** Month Year - Month Year
-- **Responsibilities:** List your responsibilities and achievements.
+## Experiência
+- **Cargo:** Auxiliar Bilingue de Viagens
+- **Empresa:** Europ Assistance Brasil
+- **Periodo:** 03/2015 - 04/2017
+- **Atribuições:** Atendimento ao cliente, tradução simultanêa, registro de documentações medicas e suporte a clientes dentro e fora do brasil.  
 
-### Cursos
-- **Certification Name**
-  - Issued by: Certification Body
-  - Year: 20XX
+- **Cargo:** 
+- **Empresa:** 
+- **Periodo:** 
+- **Atribuições:** 
 
 ### Línguas
 - **Inglês:** Avançado 
