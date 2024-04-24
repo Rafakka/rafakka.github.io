@@ -43,10 +43,10 @@ Sou determinado e estou sempre interessado em aprender algo novo, tenho muito in
 - **Periodo:** 03/2015 - 04/2017
 - **Atribuições:** Atendimento ao cliente, tradução simultanêa, registro de documentações medicas e suporte a clientes dentro e fora do brasil.  
 
-- **Cargo:** 
-- **Empresa:** 
-- **Periodo:** 
-- **Atribuições:** 
+- **Cargo:**Auxiliar Administrativo 
+- **Empresa:** Prefeitura de Osasco
+- **Periodo:** 2020 - Atual
+- **Atribuições:** Digitação de documentos, digitalização e higienização dos bancos de dados.
 
 ### Línguas
 - **Inglês:** Avançado 
