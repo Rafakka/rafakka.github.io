@@ -39,11 +39,11 @@ Sou determinado e estou sempre interessado em aprender algo novo, tenho muito in
 1. **Challenge-Amigo-Secreto**
    - Descrição:
    - Desafio Alura de um site onde é adicionado nomes de amigos a uma lista visivel e depois sorteado um nome. 
-   - GitHub Link: [Project Repository](https://github.com/Rafakka/Challenge-Amigo-Secreto)
+   - GitHub Link: [Clique Aqui](https://github.com/Rafakka/Challenge-Amigo-Secreto)
 
 2. **JobSearcher**
-   - Description: Um buscador de vagas anunciadas em um site, projeto para estudo. 
-   - GitHub Link: [Project Repository](https://github.com/Rafakka/JobSeacher)
+   - Descrição: Um buscador de vagas anunciadas em um site, projeto para estudo. 
+   - GitHub Link: [Clique Aqui](https://github.com/Rafakka/JobSeacher)
 
 ## Experiência
 - **Cargo:** Auxiliar Bilingue de Viagens
