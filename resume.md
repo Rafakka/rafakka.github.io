@@ -24,18 +24,26 @@ Sou determinado e estou sempre interessado em aprender algo novo, tenho muito in
 - **Ano:** 2022 - 2025
 
 ### Habilidades
-- Linguagens de Programação: Java, Python, C e Ruby. 
-- Web: HTML5, CSS, JavaScript.
-- Ferramentas: Git, GitHub, VSCode , Eclipse.
+- Linguagens de Programação: Java, Python, C 
+- Web: HTML5, CSS6, JavaScript.
+  
+### Ferramentas:
+  
+- Versionamento: Git/Github
+- FrameWorks: Spring, Django
+- IDE: VSCODE, IntelliJ
+- Dev/Ops: Docker
+- Testes: Postman
 
 ### Projetos
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - GitHub Link: [Project Repository](https://github.com/yourprofile/project1)
+1. **Challenge-Amigo-Secreto**
+   - Descrição:
+   - Desafio Alura de um site onde é adicionado nomes de amigos a uma lista visivel e depois sorteado um nome. 
+   - GitHub Link: [Project Repository]((https://github.com/Rafakka/Challenge-Amigo-Secreto))
 
-2. **Project Name 2**
-   - Description: Another project description.
-   - GitHub Link: [Project Repository](https://github.com/yourprofile/project2)
+2. **JobSearcher**
+   - Description: Um buscador de vagas anunciadas em um site, projeto para estudo. 
+   - GitHub Link: [Project Repository](https://github.com/Rafakka/JobSeacher)
 
 ## Experiência
 - **Cargo:** Auxiliar Bilingue de Viagens
