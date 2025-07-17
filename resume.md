@@ -43,7 +43,7 @@ Sou determinado e estou sempre interessado em aprender algo novo, tenho muito in
 
 2. **JobSearcher**
    - Description: Um buscador de vagas anunciadas em um site, projeto para estudo. 
-   - GitHub Link: [Project Repository](https://github.com/Rafakka/JobSeacher)
+   - GitHub Link: [Project Repository]((https://github.com/Rafakka/JobSeacher))
 
 ## Experiência
 - **Cargo:** Auxiliar Bilingue de Viagens
